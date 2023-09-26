@@ -32,7 +32,7 @@ build/
 
 
 ### Section2 ###
-sectio2/accouts/.mvn/wrapper/maven-wrapper.jar
-sectio2/accouts/.mvn/wrapper/maven-wrapper.properties
-sectio2/accouts/mvnw
-sectio2/accouts/mvnw.cmd
+section2/accouts/.mvn/wrapper/maven-wrapper.jar
+section2/accouts/.mvn/wrapper/maven-wrapper.properties
+section2/accouts/mvnw
+section2/accouts/mvnw.cmd
