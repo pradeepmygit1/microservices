@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping(path = "/api",produces = MediaType.APPLICATION_JSON_VALUE)
-@AllArgsConstructor
+@AllArgsConstructor   // to test for runtime exception put comment or remove( @AllArgConstructor )
 public class AccountsController {
 
     private IAccountsService iAccountsService;
