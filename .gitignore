@@ -36,3 +36,14 @@ section2/accounts/.mvn/wrapper/maven-wrapper.jar
 section2/accounts/.mvn/wrapper/maven-wrapper.properties
 section2/accounts/mvnw
 section2/accounts/mvnw.cmd
+
+section2/loans/.mvn/wrapper/maven-wrapper.jar
+section2/loans/.mvn/wrapper/maven-wrapper.properties
+section2/loans/mvnw
+section2/loans/mvnw.cmd
+
+section2/cards/.mvn/wrapper/maven-wrapper.jar
+section2/cards/.mvn/wrapper/maven-wrapper.properties
+section2/cards/mvnw
+section2/cards/mvnw.cmd
+
