@@ -62,3 +62,19 @@ section4/cards/.mvn/wrapper/maven-wrapper.jar
 section4/cards/.mvn/wrapper/maven-wrapper.properties
 section4/cards/mvnw
 section4/cards/mvnw.cmd
+
+### Section6 ###
+section6/v1-springboot/accounts/.mvn/wrapper/maven-wrapper.jar
+section6/v1-springboot/accounts/.mvn/wrapper/maven-wrapper.properties
+section6/v1-springboot/accounts/mvnw
+section6/v1-springboot/accounts/mvnw.cmd
+
+section6/v1-springboot/loans/.mvn/wrapper/maven-wrapper.jar
+section6/v1-springboot/loans/.mvn/wrapper/maven-wrapper.properties
+section6/v1-springboot/loans/mvnw
+section6/v1-springboot/loans/mvnw.cmd
+
+section6/v1-springboot/cards/.mvn/wrapper/maven-wrapper.jar
+section6/v1-springboot/cards/.mvn/wrapper/maven-wrapper.properties
+section6/v1-springboot/cards/mvnw
+section6/v1-springboot/cards/mvnw.cmd
