@@ -78,3 +78,33 @@ section6/v1-springboot/cards/.mvn/wrapper/maven-wrapper.jar
 section6/v1-springboot/cards/.mvn/wrapper/maven-wrapper.properties
 section6/v1-springboot/cards/mvnw
 section6/v1-springboot/cards/mvnw.cmd
+
+### IntelliJ IDEA ###
+section6/v1-springboot/.idea
+section6/v1-springboot/*.iws
+section6/v1-springboot/*.iml
+section6/v1-springboot/*.ipr
+section6/v1-springboot/.DS_Store
+
+### Section6 ###
+section6/v2-spring-cloud-config/accounts/.mvn/wrapper/maven-wrapper.jar
+section6/v2-spring-cloud-config/accounts/.mvn/wrapper/maven-wrapper.properties
+section6/v2-spring-cloud-config/accounts/mvnw
+section6/v2-spring-cloud-config/accounts/mvnw.cmd
+
+section6/v2-spring-cloud-config/loans/.mvn/wrapper/maven-wrapper.jar
+section6/v2-spring-cloud-config/loans/.mvn/wrapper/maven-wrapper.properties
+section6/v2-spring-cloud-config/loans/mvnw
+section6/v2-spring-cloud-config/loans/mvnw.cmd
+
+section6/v2-spring-cloud-config/cards/.mvn/wrapper/maven-wrapper.jar
+section6/v2-spring-cloud-config/cards/.mvn/wrapper/maven-wrapper.properties
+section6/v2-spring-cloud-config/cards/mvnw
+section6/v2-spring-cloud-config/cards/mvnw.cmd
+
+### IntelliJ IDEA ###
+section6/v2-spring-cloud-config/.idea
+section6/v2-spring-cloud-config/*.iws
+section6/v2-spring-cloud-config/*.iml
+section6/v2-spring-cloud-config/*.ipr
+section6/v2-spring-cloud-config/.DS_Store
