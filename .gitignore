@@ -126,6 +126,11 @@ section7/cards/.mvn/wrapper/maven-wrapper.properties
 section7/cards/mvnw
 section7/cards/mvnw.cmd
 
+section7/configserver/.mvn/wrapper/maven-wrapper.jar
+section7/configserver/.mvn/wrapper/maven-wrapper.properties
+section7/configserver/mvnw
+section7/configserver/mvnw.cmd
+
 ### IntelliJ IDEA ###
 section7/.idea
 section7/*.iws
