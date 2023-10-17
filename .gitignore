@@ -108,3 +108,42 @@ section6/v2-spring-cloud-config/*.iws
 section6/v2-spring-cloud-config/*.iml
 section6/v2-spring-cloud-config/*.ipr
 section6/v2-spring-cloud-config/.DS_Store
+
+
+### Section7 ###
+section7/accounts/.mvn/wrapper/maven-wrapper.jar
+section7/accounts/.mvn/wrapper/maven-wrapper.properties
+section7/accounts/mvnw
+section7/accounts/mvnw.cmd
+
+section7/loans/.mvn/wrapper/maven-wrapper.jar
+section7/loans/.mvn/wrapper/maven-wrapper.properties
+section7/loans/mvnw
+section7/loans/mvnw.cmd
+
+section7/cards/.mvn/wrapper/maven-wrapper.jar
+section7/cards/.mvn/wrapper/maven-wrapper.properties
+section7/cards/mvnw
+section7/cards/mvnw.cmd
+
+### IntelliJ IDEA ###
+section7/.idea
+section7/*.iws
+section7/*.iml
+section7/*.ipr
+section7/.DS_Store
+
+section7/accounts/HELP.md
+section7/accounts/mvnw
+section7/accounts/mvnw.cmd
+section7/cards/HELP.md
+section7/cards/mvnw
+section7/cards/mvnw.cmd
+section7/loans/HELP.md
+section7/loans/mvnw
+section7/loans/mvnw.cmd
+section7/configserver/HELP.md
+section7/configserver/mvnw
+section7/configserver/mvnw.cmd
+
+### Section7 End #######################
