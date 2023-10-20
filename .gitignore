@@ -152,3 +152,54 @@ section7/configserver/mvnw
 section7/configserver/mvnw.cmd
 
 ### Section7 End #######################
+
+### Section8 Start ###
+section8/accounts/.mvn/wrapper/maven-wrapper.jar
+section8/accounts/.mvn/wrapper/maven-wrapper.properties
+section8/accounts/mvnw
+section8/accounts/mvnw.cmd
+
+section8/loans/.mvn/wrapper/maven-wrapper.jar
+section8/loans/.mvn/wrapper/maven-wrapper.properties
+section8/loans/mvnw
+section8/loans/mvnw.cmd
+
+section8/cards/.mvn/wrapper/maven-wrapper.jar
+section8/cards/.mvn/wrapper/maven-wrapper.properties
+section8/cards/mvnw
+section8/cards/mvnw.cmd
+
+section8/configserver/.mvn/wrapper/maven-wrapper.jar
+section8/configserver/.mvn/wrapper/maven-wrapper.properties
+section8/configserver/mvnw
+section8/configserver/mvnw.cmd
+
+section8/eurekaserver/.mvn/wrapper/maven-wrapper.jar
+section8/eurekaserver/.mvn/wrapper/maven-wrapper.properties
+section8/eurekaserver/mvnw
+section8/eurekaserver/mvnw.cmd
+
+### IntelliJ IDEA ###
+section8/.idea
+section8/*.iws
+section8/*.iml
+section8/*.ipr
+section8/.DS_Store
+
+section8/accounts/HELP.md
+section8/accounts/mvnw
+section8/accounts/mvnw.cmd
+section8/cards/HELP.md
+section8/cards/mvnw
+section8/cards/mvnw.cmd
+section8/loans/HELP.md
+section8/loans/mvnw
+section8/loans/mvnw.cmd
+section8/configserver/HELP.md
+section8/configserver/mvnw
+section8/configserver/mvnw.cmd
+section8/eurekaserver/HELP.md
+section8/eurekaserver/mvnw
+section8/eurekaserver/mvnw.cmd
+
+### Section8 End #######################
