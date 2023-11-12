@@ -262,3 +262,62 @@ section9/gatewayserver/mvnw
 section9/gatewayserver/mvnw.cmd
 
 ### Section9 End #######################
+
+### Section10 Start ###
+section10/accounts/.mvn/wrapper/maven-wrapper.jar
+section10/accounts/.mvn/wrapper/maven-wrapper.properties
+section10/accounts/mvnw
+section10/accounts/mvnw.cmd
+
+section10/loans/.mvn/wrapper/maven-wrapper.jar
+section10/loans/.mvn/wrapper/maven-wrapper.properties
+section10/loans/mvnw
+section10/loans/mvnw.cmd
+
+section10/cards/.mvn/wrapper/maven-wrapper.jar
+section10/cards/.mvn/wrapper/maven-wrapper.properties
+section10/cards/mvnw
+section10/cards/mvnw.cmd
+
+section10/configserver/.mvn/wrapper/maven-wrapper.jar
+section10/configserver/.mvn/wrapper/maven-wrapper.properties
+section10/configserver/mvnw
+section10/configserver/mvnw.cmd
+
+section10/eurekaserver/.mvn/wrapper/maven-wrapper.jar
+section10/eurekaserver/.mvn/wrapper/maven-wrapper.properties
+section10/eurekaserver/mvnw
+section10/eurekaserver/mvnw.cmd
+
+section10/gatewayserver/.mvn/wrapper/maven-wrapper.jar
+section10/gatewayserver/.mvn/wrapper/maven-wrapper.properties
+section10/gatewayserver/mvnw
+section10/gatewayserver/mvnw.cmd
+
+### IntelliJ IDEA ###
+section10/.idea
+section10/*.iws
+section10/*.iml
+section10/*.ipr
+section10/.DS_Store
+
+section10/accounts/HELP.md
+section10/accounts/mvnw
+section10/accounts/mvnw.cmd
+section10/cards/HELP.md
+section10/cards/mvnw
+section10/cards/mvnw.cmd
+section10/loans/HELP.md
+section10/loans/mvnw
+section10/loans/mvnw.cmd
+section10/configserver/HELP.md
+section10/configserver/mvnw
+section10/configserver/mvnw.cmd
+section10/eurekaserver/HELP.md
+section10/eurekaserver/mvnw
+section10/eurekaserver/mvnw.cmd
+section10/gatewayserver/HELP.md
+section10/gatewayserver/mvnw
+section10/gatewayserver/mvnw.cmd
+
+### Section10 End #######################
