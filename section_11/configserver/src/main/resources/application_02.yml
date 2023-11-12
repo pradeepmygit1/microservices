@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: "configserver"
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        native:
+          git:
+            uri: "https://github.com/eazybytes/eazybytes-config.git"
+            default-label: main
+            timeout: 10
+            clone-on-start: true
+            force-pull: true
+
+server:
+  port: 8071
