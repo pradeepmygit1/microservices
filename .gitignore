@@ -380,3 +380,62 @@ section11/gatewayserver/mvnw
 section11/gatewayserver/mvnw.cmd
 
 ### Section11 End #######################
+
+### Section12 Start ###
+section12/accounts/.mvn/wrapper/maven-wrapper.jar
+section12/accounts/.mvn/wrapper/maven-wrapper.properties
+section12/accounts/mvnw
+section12/accounts/mvnw.cmd
+
+section12/loans/.mvn/wrapper/maven-wrapper.jar
+section12/loans/.mvn/wrapper/maven-wrapper.properties
+section12/loans/mvnw
+section12/loans/mvnw.cmd
+
+section12/cards/.mvn/wrapper/maven-wrapper.jar
+section12/cards/.mvn/wrapper/maven-wrapper.properties
+section12/cards/mvnw
+section12/cards/mvnw.cmd
+
+section12/configserver/.mvn/wrapper/maven-wrapper.jar
+section12/configserver/.mvn/wrapper/maven-wrapper.properties
+section12/configserver/mvnw
+section12/configserver/mvnw.cmd
+
+section12/eurekaserver/.mvn/wrapper/maven-wrapper.jar
+section12/eurekaserver/.mvn/wrapper/maven-wrapper.properties
+section12/eurekaserver/mvnw
+section12/eurekaserver/mvnw.cmd
+
+section12/gatewayserver/.mvn/wrapper/maven-wrapper.jar
+section12/gatewayserver/.mvn/wrapper/maven-wrapper.properties
+section12/gatewayserver/mvnw
+section12/gatewayserver/mvnw.cmd
+
+### IntelliJ IDEA ###
+section12/.idea
+section12/*.iws
+section12/*.iml
+section12/*.ipr
+section12/.DS_Store
+
+section12/accounts/HELP.md
+section12/accounts/mvnw
+section12/accounts/mvnw.cmd
+section12/cards/HELP.md
+section12/cards/mvnw
+section12/cards/mvnw.cmd
+section12/loans/HELP.md
+section12/loans/mvnw
+section12/loans/mvnw.cmd
+section12/configserver/HELP.md
+section12/configserver/mvnw
+section12/configserver/mvnw.cmd
+section12/eurekaserver/HELP.md
+section12/eurekaserver/mvnw
+section12/eurekaserver/mvnw.cmd
+section12/gatewayserver/HELP.md
+section12/gatewayserver/mvnw
+section12/gatewayserver/mvnw.cmd
+
+### section12 End #######################
