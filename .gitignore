@@ -439,3 +439,56 @@ section12/gatewayserver/mvnw
 section12/gatewayserver/mvnw.cmd
 
 ### section12 End #######################
+
+### Section13 Start ###
+section13/accounts/.mvn/wrapper/maven-wrapper.jar
+section13/accounts/.mvn/wrapper/maven-wrapper.properties
+section13/accounts/mvnw
+section13/accounts/mvnw.cmd
+section13/accounts/HELP.md
+
+section13/loans/.mvn/wrapper/maven-wrapper.jar
+section13/loans/.mvn/wrapper/maven-wrapper.properties
+section13/loans/mvnw
+section13/loans/mvnw.cmd
+
+section13/cards/.mvn/wrapper/maven-wrapper.jar
+section13/cards/.mvn/wrapper/maven-wrapper.properties
+section13/cards/mvnw
+section13/cards/mvnw.cmd
+section13/cards/HELP.md
+
+section13/configserver/.mvn/wrapper/maven-wrapper.jar
+section13/configserver/.mvn/wrapper/maven-wrapper.properties
+section13/configserver/mvnw
+section13/configserver/mvnw.cmd
+section13/configserver/HELP.md
+
+section13/eurekaserver/.mvn/wrapper/maven-wrapper.jar
+section13/eurekaserver/.mvn/wrapper/maven-wrapper.properties
+section13/eurekaserver/mvnw
+section13/eurekaserver/mvnw.cmd
+section13/eurekaserver/HELP.md
+
+section13/gatewayserver/.mvn/wrapper/maven-wrapper.jar
+section13/gatewayserver/.mvn/wrapper/maven-wrapper.properties
+section13/gatewayserver/mvnw
+section13/gatewayserver/mvnw.cmd
+section13/gatewayserver/HELP.md
+
+section13/message/.mvn/wrapper/maven-wrapper.jar
+section13/message/.mvn/wrapper/maven-wrapper.properties
+section13/message/mvnw
+section13/message/mvnw.cmd
+section13/message/HELP.md
+
+
+### IntelliJ IDEA ###
+section13/.idea
+section13/*.iws
+section13/*.iml
+section13/*.ipr
+section13/.DS_Store
+
+
+### section13 End #######################
